@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kethilynsilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kethilynsilva/kethilynsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, I’m @kethilynsilva
+- 👀 Eu estou interresada em procurar meu primeiro emprego na area de Redes 
+- 🌱 Atualmente estou aprendendo sobre Switchs e roteadores
+- 💞️ Eu procuro colaborar com o que for preciso ao meu alcance 
+- 📫 Entrar em contato comigo pelo meu numero (11) 97083-2923, ou meu linkedin Kethilyn Da Silva Batista.
